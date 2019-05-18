@@ -1,0 +1,29 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SevenWest.ConsoleApp", "SevenWest.ConsoleApp\SevenWest.ConsoleApp.csproj", "{5550041E-8BB0-4501-B322-D67CE681EA2B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SevenWest.Core", "SevenWest.Core\SevenWest.Core.csproj", "{3689012E-D1E1-4A9A-BD0C-0EAD69DC76FF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SevenWest.Tests", "SevenWest.Tests\SevenWest.Tests.csproj", "{B8B462DE-8964-4BC9-A8D1-A46456A70334}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5550041E-8BB0-4501-B322-D67CE681EA2B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5550041E-8BB0-4501-B322-D67CE681EA2B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5550041E-8BB0-4501-B322-D67CE681EA2B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5550041E-8BB0-4501-B322-D67CE681EA2B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3689012E-D1E1-4A9A-BD0C-0EAD69DC76FF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3689012E-D1E1-4A9A-BD0C-0EAD69DC76FF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3689012E-D1E1-4A9A-BD0C-0EAD69DC76FF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3689012E-D1E1-4A9A-BD0C-0EAD69DC76FF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B8B462DE-8964-4BC9-A8D1-A46456A70334}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B8B462DE-8964-4BC9-A8D1-A46456A70334}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B8B462DE-8964-4BC9-A8D1-A46456A70334}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B8B462DE-8964-4BC9-A8D1-A46456A70334}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
